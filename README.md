@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Shay from Neto Tech.
 ![alt text](https://netotech.ltd/wp-content/uploads/2018/07/neto_logo.png)<br>
-We are making fun with:<br>
+I work and having fun with:<br>
 <p>
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
